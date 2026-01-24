@@ -1,0 +1,14 @@
+// Last updated: 1/24/2026, 3:26:23 PM
+class Solution {
+    public int minCostToMoveChips(int[] position) {
+        int odd=0;
+        int even=0;
+        for(int i:position){
+            if(i%2==0)
+               even++;
+            else 
+               odd++;
+        }
+     return even<odd?even:odd;   
+    }
+}
