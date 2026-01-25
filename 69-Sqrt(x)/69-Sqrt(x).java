@@ -1,4 +1,4 @@
-// Last updated: 1/25/2026, 10:28:27 AM
+// Last updated: 1/25/2026, 10:35:21 AM
 1class Solution {
 2    public int mySqrt(int x) {
 3        if(x<2)  return x;
