@@ -1,4 +1,4 @@
-// Last updated: 2/11/2026, 10:14:24 PM
+// Last updated: 2/11/2026, 10:14:31 PM
 1class Solution {
 2    public int longestPalindrome(String s) {
 3        int[] freq = new int[128]; 
