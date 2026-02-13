@@ -1,4 +1,4 @@
-// Last updated: 2/13/2026, 8:44:10 PM
+// Last updated: 2/13/2026, 8:44:19 PM
 1class Solution {
 2    public int[] intersect(int[] nums1, int[] nums2) {
 3        int l1 = nums1.length;
