@@ -1,4 +1,4 @@
-// Last updated: 2/23/2026, 12:50:25 PM
+// Last updated: 2/23/2026, 12:51:52 PM
 1class Solution {
 2    public boolean repeatedSubstringPattern(String s) {
 3        String doubled = s + s;
