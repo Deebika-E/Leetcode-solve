@@ -1,4 +1,4 @@
-// Last updated: 3/2/2026, 9:06:30 PM
+// Last updated: 3/2/2026, 9:06:48 PM
 1class Solution {
 2    public double findMaxAverage(int[] nums, int k) {
 3        int n=nums.length;
