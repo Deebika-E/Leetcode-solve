@@ -1,4 +1,4 @@
-// Last updated: 4/10/2026, 8:31:26 PM
+// Last updated: 4/11/2026, 9:31:57 PM
 1class Solution {
 2    public int alternatingSum(int[] nums) {
 3        int sum=nums[0];
