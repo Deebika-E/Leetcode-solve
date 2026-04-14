@@ -1,4 +1,4 @@
-// Last updated: 4/14/2026, 8:52:45 AM
+// Last updated: 4/14/2026, 8:57:58 AM
 1class Solution {
 2    public int countGoodTriplets(int[] arr, int a, int b, int c) {
 3        int count=0;
@@ -9,7 +9,7 @@
 8                        for(int k=j+1;k<n;k++){
 9                            if((Math.abs(arr[j]-arr[k])<= b && Math.abs(arr[i]-arr[k])<= c)){
 10                                count++;
-11                            }
+11                       }
 12                    }
 13                }
 14            }
