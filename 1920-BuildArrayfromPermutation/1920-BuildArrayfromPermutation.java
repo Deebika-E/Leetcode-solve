@@ -1,4 +1,4 @@
-// Last updated: 4/23/2026, 10:11:21 AM
+// Last updated: 4/23/2026, 10:11:27 AM
 1class Solution {
 2    public int[] buildArray(int[] nums) {
 3        int n = nums.length;
